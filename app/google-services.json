@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138504365968",
+    "project_id": "fcbook-54c27",
+    "storage_bucket": "fcbook-54c27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138504365968:android:e56828b91504c0d68ab515",
+        "android_client_info": {
+          "package_name": "com.example.fcbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138504365968-hmg7g9ncu2m2p9bp4thtsjv75ptgb6pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIq7raKiJVqdSHjTB_rlkNInQx1Di1KTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138504365968-hmg7g9ncu2m2p9bp4thtsjv75ptgb6pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
