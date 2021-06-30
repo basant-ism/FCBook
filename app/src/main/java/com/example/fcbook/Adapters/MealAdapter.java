@@ -44,8 +44,8 @@ public class MealAdapter extends RecyclerView.Adapter<MealAdapter.FoodViewHolder
 
         getMealsIds();
 
-    }
-
+    }//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
+// git pull https://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@github.com/BASANTKUMARSAINI/FCBook.git
     private void getMealsIds() {
         if(mAuth.getCurrentUser()!=null)
         {
