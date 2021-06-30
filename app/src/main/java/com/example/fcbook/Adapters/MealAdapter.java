@@ -33,6 +33,7 @@ public class MealAdapter extends RecyclerView.Adapter<MealAdapter.FoodViewHolder
     List<Meal>meals;
     FirebaseAuth mAuth;
     FirebaseFirestore db;
+    //jsjs
     public static List<String> meals_id=new ArrayList<>();
 
     public MealAdapter(Context context, List<Meal>meals)
