@@ -49,6 +49,7 @@ public class MealAdapter extends RecyclerView.Adapter<MealAdapter.FoodViewHolder
     private void getMealsIds() {
         if(mAuth.getCurrentUser()!=null)
         {
+            Log.d("TAG", "getMealsIds: ");
             db.collection("users").document(mAuth.getUid()).get().addOnSuccessListener(new OnSuccessListener<DocumentSnapshot>() {
                 @Override
                 public void onSuccess(DocumentSnapshot documentSnapshot) {
