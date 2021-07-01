@@ -75,7 +75,10 @@ public class MealAdapter extends RecyclerView.Adapter<MealAdapter.FoodViewHolder
 
         return new FoodViewHolder(context,view);
     }
+//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
+    //git remote set-url origin https://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@github.com/BASANTKUMARSAINI/FCBook
 
+    //git pull https://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@github.com/BASANTKUMARSAINI/FCBook.git
     @Override
     public void onBindViewHolder(@NonNull FoodViewHolder holder, int position) {
          holder.mealName.setText(meals.get(position).getStrMeal());
